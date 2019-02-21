@@ -7,7 +7,7 @@ Developed a custom Slide Out Menu
 
 # Notes
 
-* NO Storyboards (All done Programmatically)
+* All done Programmatically
 
 * Integrated UITableView, UINavigationController, UIStackView, UIPanGestureRecognizer, and UISearchController
 
